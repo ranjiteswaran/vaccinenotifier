@@ -1,3 +1,5 @@
+//This raw code is copied from kartikey54/VaccineAvailabilityNotifier but needs lots of improvement especially with UI and ease of use on phones, also ping time on Cowin website
+
 require('dotenv').config()
 const moment = require('moment');
 const cron = require('node-cron');
